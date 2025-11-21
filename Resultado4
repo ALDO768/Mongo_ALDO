@@ -1,0 +1,11 @@
+[
+  {
+    "_id": {
+      "$oid": "691e13fd2b64f0a8ec7d6989"
+    },
+    "Resolución": "4K",
+    "Consumo_de_energía": "180W",
+    "Tamaño": "65 pulgadas",
+    "Resolucion": "1080p"
+  }
+]
